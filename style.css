@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image: linear-gradient(to right, #605e7e, #6b73c1, #37b3cc);
+    background-image: linear-gradient(to right, #5e7e6c, #6bc17f, #a7cc37);
     margin: 50px 2%;
 }
 
@@ -69,7 +69,7 @@ body {
 }
 
 .buttoninput:hover {
-    background-color: #8f8acc;
+    background-color: #8ecc8a;
     color: white;
 }
 
@@ -110,12 +110,12 @@ body {
 }
 
 .check-button:hover {
-    background-color: #37b3cc;
+    background-color: #70cc37;
     color: white;
 }
 
 .trash-button:hover {
-    background-color: #6b73c1;
+    background-color: #6bc16b;
     color: white;
 }
 

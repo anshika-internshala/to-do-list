@@ -36,6 +36,7 @@ function addTodo() {
 // checking and delete todoList 
 function okdel(e) {
     const item = e.target
+    console.log(item);
 
     // check
     if (item.classList[0] === 'check-button') {
